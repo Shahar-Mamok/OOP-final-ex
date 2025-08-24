@@ -8,6 +8,7 @@ class  CityEntity {
     string name;
 
     public:
+    int getZone() const { return zone; }
     CityEntity(const string& name, int zone):name(name),zone(zone){}
     virtual ~CityEntity(){}
     virtual string getType() const = 0;
