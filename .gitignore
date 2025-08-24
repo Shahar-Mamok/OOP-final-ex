@@ -1,0 +1,15 @@
+# Ignore CLion/JetBrains IDE files
+.idea/
+
+# Ignore CMake build directories
+cmake-build-*/
+
+# Ignore other build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# Ignore downloads/temp folders
+download/
