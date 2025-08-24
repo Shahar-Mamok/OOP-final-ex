@@ -1,0 +1,3 @@
+C:/Users/ajrnn/Desktop/study/year 2/cpp final ex/cmake-build-debug/CMakeFiles/cpp_final_ex.dir
+C:/Users/ajrnn/Desktop/study/year 2/cpp final ex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ajrnn/Desktop/study/year 2/cpp final ex/cmake-build-debug/CMakeFiles/rebuild_cache.dir

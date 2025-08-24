@@ -1,0 +1,4 @@
+# ninja log v6
+3	350	7777343290857669	build.ninja	415254450934880e
+1	428	7777347481548537	CMakeFiles/cpp_final_ex.dir/mainTrain.cpp.obj	9385bbdd54fe6b7f
+429	584	7777347485827771	cpp_final_ex.exe	47dad98c2cb30e0a

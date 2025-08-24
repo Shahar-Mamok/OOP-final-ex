@@ -1,0 +1,5 @@
+#ifndef CIRCULARITERATOR_H
+#define CIRCULARITERATOR_H
+
+
+#endif
